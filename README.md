@@ -24,7 +24,8 @@ The dataset includes the following key fields:
 ## [Analyzing the Medical Condition](medical_condition.ipynb)
 
 This is a grouped bar chart. The x-axis lists six different medical conditions: Arthritis, Asthma, Cancer, Diabetes, Hypertension, and Obesity. The y-axis represents the "Average Billing ($)" amount, scaled in millions. For each medical condition, there are two adjacent bars: dark blue representing the average billing for female patients and brown representing the average billing for male patients. The exact average billing amount is labeled above each bar.
-![Alt Text](images\average_bill_amount_condition_gender.png)
+
+![Alt Image](images/average_bill_amount_condition_gender.png)
 
 ### Breaking Down the chart
 1. **Overall Average Billing:** The average billing amounts across all conditions and genders are relatively high, generally ranging between approximately $115 million and $120 million. This suggests significant healthcare costs associated with these conditions.
